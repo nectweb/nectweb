@@ -10,7 +10,7 @@
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=dbrito1992&show_icons=true&theme=tokyonight)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dbrito1992&layout=compact&theme=tokyonight)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dbrito1992&layout=compact&theme=tokyonight&private=true)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dbrito1992&theme=tokyonight)
 
 ## 🌎 Onde me encontrar
