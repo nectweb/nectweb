@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Nectweb 
 
-<!--
-**nectweb/nectweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Desenvolvedor Full Stack | Java Spring + Next.js 
+📌 Focado em sistemas de e-commerce e integrações de pagamento  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- ⚡ Java, Spring Boot
+- ⚡ TypeScript, Next.js, Nestjs
+- ⚡ PostgreSQL, Mysql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=dbrito1992&show_icons=true&theme=tokyonight)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dbrito1992&layout=compact&theme=tokyonight)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dbrito1992&theme=tokyonight)
+
+## 🌎 Onde me encontrar
+- [LinkedIn](https://linkedin.com/in/diego-brito-a43690266)
+- [Portfólio](https://dev.forcaweb.net/)
+- [Forum](https://forum.forcaweb.net/)
