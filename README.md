@@ -5,7 +5,7 @@
 
 ## 🚀 Tecnologias
 - ⚡ Java, Spring Boot
-- ⚡ TypeScript, Next.js, Nestjs
+- ⚡ TypeScript, Next.js, Nest.js
 - ⚡ PostgreSQL, Mysql
 
 ## 📊 Estatísticas do GitHub
